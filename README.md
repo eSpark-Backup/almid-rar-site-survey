@@ -13,7 +13,7 @@ The primary objectives of the networking site survey were as follows:
 - [Planed for next visit] Network Performance Testing: Utilizing specialized software to analyze network speed, latency, and throughput.
 - [Planed for next visit] User Interviews: Obtaining feedback from employees regarding their network experience and pain points.
 ## Current Setup and Network Infrastructure
-- Buildings : 3 | Floors : 5 | Rooms : 25 
+- Buildings : 3 | Floors : 5 | Rooms : 13
 - Network Topology: Mesh Wifi
 - Network Equipment: 
   - Wifi Routers : 13 (4*30mbps+9*30mbps = 430 mbps)
@@ -44,7 +44,7 @@ The primary objectives of the networking site survey were as follows:
 | 1          | 3      | 3      | Huawei Wifi EG8143A5\* | Optical    | 4                     | 30                   | WhatsApp + CCTV                       | 14               | 14             | 2              | 0              | 30          | Default           | 1                             |                  |
 | 2          | UNK    | 1      | Huawei Wifi EG8143A5\* | Optical    | 4                     | 30                   | WhatsApp + CCTV                       | 2                | 2              | 2              | 0              | 6           | Default           | 5                             |                  |
 | 3          | UNK    | 1      | Huawei Wifi EG8143A5\* | Optical    | 4                     | 30                   | WhatsApp + CCTV                       | 0                | 0              | 2              | 0              | 2           | Default           | 15                            | Future Expansion |
-| 3          | 4      | 25     | 13                     |            | 52                    | 430                  |                                       | 92               | 92             | 26             | 0              | 210         |                   |                               |
+| 3          | 4      | 13     | 13                     |            | 52                    | 430                  |                                       | 92               | 92             | 26             | 0              | 210         |                   |                               |
 ## Recommendations
 - Shift all Laptop/Pc and CCTV from wifi to wired network
 - Use central storage for data commaon data and sharing intead of cloud
@@ -69,8 +69,8 @@ The primary objectives of the networking site survey were as follows:
 - 5 Managed switches shall be installed on each floor of 
 - Load balancwer shall be installed on building # 1 with 3 different internet connections 
 - All managed switches (i.e 4) of building # 1 and 2 shall be connected with a load balancer
-- 20-25 Wifi Routers shall be installed on each room to provide smartphones(92+)  
-- Building # 3 shall be connected without load balancer because thier are only 4 users 
+- 10-12 Wifi Routers shall be installed on each room to provide smartphones(92+)  
+- Building # 3 shall be connected without load balancer because thier are only 4 nodes 
 - 
 ## Conclusion
 The networking site survey indicates that converting the Wi-Fi-based network at ALMidrar to a wired network is a viable option. The transition offers significant benefits in terms of network performance, reliability, and security. However, careful planning, resource allocation, and coordination with the IT team will be necessary to ensure a successful and smooth conversion process.
