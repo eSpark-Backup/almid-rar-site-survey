@@ -15,7 +15,7 @@ The primary objectives of the networking site survey were as follows:
 - Buildings : 3 | Floors : 5 | Rooms : 13
 - Network Topology: Mesh Wifi
 - Network Equipment: 
-  - Wifi Routers : 13 (4*30mbps+9*30mbps = 430 mbps)
+  - Wifi Routers : 13 (4\*30mbps+9\*30mbps = 430 mbps)
 - Network Configuration: Default
 - List of clients : (Total 210+1) 
   - Smartphones(Wifi) : 92
@@ -95,5 +95,8 @@ The primary objectives of the networking site survey were as follows:
 - Power cable
 - Channels for Cable
 - 4 4u Wall mount network rack (if required)
+### Available Internet Plans in DHA Phase 2 Ext
+![](./img/t.png)
+![](./img/s.png)
 ## Conclusion
 The networking site survey indicates that converting the Wi-Fi-based network at ALMidrar to a wired network is a viable option. The transition offers significant benefits in terms of network performance, reliability, and security. However, careful planning, resource allocation, and coordination with the IT team will be necessary to ensure a successful and smooth conversion process.
