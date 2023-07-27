@@ -95,6 +95,29 @@ The primary objectives of the networking site survey were as follows:
 - Power cable
 - Channels for Cable
 - 4 4u Wall mount network rack (if required)
+### Cost Comparision
+|Item       |Solution   |Model/Specs                                     |Qty|Estm Price|Total |
+|-----------|-----------|------------------------------------------------|---|----------|------|
+|Switch     |Solution 01|Tp-Link SG1016D 16-Port Gigabit Rackmount Switch|12 |18800     |225600|
+|Wifi Router|Solution 01|Exisiting routers will be utilized              |   |          |      |
+|Cable      |Solution 01|Required Survey                                 |   |          |      |
+|Channel    |Solution 01|Required Survey                                 |   |          |      |
+|Labour     |Solution 01|Required Survey                                 |   |          |      |
+|ISPs       |Solution 01|Exisiting ISPs will be used                     |13 |          |94000 |
+|Switch     |Solution 02|48 ports cisco used switch                      |4  |60000     |240000|
+|Wifi Router|Solution 02|TP link TL840 2.4G router                       |12 |4500      |54000 |
+|Cable      |Solution 02|Required Survey                                 |   |          |      |
+|Channel    |Solution 02|Required Survey                                 |   |          |      |
+|Labour     |Solution 02|Required Survey                                 |   |          |      |
+|ISPs       |Solution 02|100mbps fiber internet connection               |3  |14500     |43500 |
+|ISPs       |Solution 02|35mbps fiber internet connection                |1  |5500      |5500  |
+
+|Solution   |SUM of Total|
+|-----------|------------|
+|Solution 01|319600      |
+|Solution 02|343000      |
+|Grand Total|662600      |
+
 ### Available Internet Plans in DHA Phase 2 Ext
 ![](./img/t.png)
 ![](./img/s.png)
