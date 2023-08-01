@@ -127,4 +127,4 @@ The networking site survey indicates that converting the Wi-Fi-based network at 
 
 
 ### PDF Link
-[AlMidrar Site Survey (https://1drv.ms/b/s!AhIsfuYgrhAnjFp_aAEg9GYyJj62?e=qMoiYk)
+[AlMidrar Site Survey] (https://1drv.ms/b/s!AhIsfuYgrhAnjFp_aAEg9GYyJj62?e=qMoiYk)
