@@ -123,3 +123,8 @@ The primary objectives of the networking site survey were as follows:
 ![](./img/s.png)
 ## Conclusion
 The networking site survey indicates that converting the Wi-Fi-based network at ALMidrar to a wired network is a viable option. The transition offers significant benefits regarding network performance, reliability, and security. However, careful planning, resource allocation, and coordination with the IT team will be necessary to ensure a successful and smooth conversion process.
+
+
+
+### PDF Link
+[AlMidrar Site Survey (https://1drv.ms/b/s!AhIsfuYgrhAnjFp_aAEg9GYyJj62?e=qMoiYk)
